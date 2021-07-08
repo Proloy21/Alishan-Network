@@ -83,9 +83,14 @@ h2{
 }
 .half_width{
     width: 30%;
-    margin-left: 6%;
-    box-shadow: 10px 10px 10px 10px gray;
+    margin:6%;
+    box-shadow: 10px 10px 5px gray;
+    border-radius: 10px;
 }
 .half_width img{
     width: 80%;
+}
+.half_width p{
+    text-align:justify;
+    padding-left: 5px;
 }
